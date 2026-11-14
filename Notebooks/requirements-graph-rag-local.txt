@@ -1,0 +1,16 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-text-splitters
+langsmith
+matplotlib
+networkx
+nltk
+numpy
+pydantic
+python-dotenv
+pypdf
+scikit-learn
+spacy
