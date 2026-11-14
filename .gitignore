@@ -6,6 +6,9 @@
 **/.env.*
 !**/.env.example
 
+# Reference notebooks with separate redistribution terms
+Originals/
+
 # Local document corpus and generated notebook artifacts
 Notebooks/Documents/
 *.pdf
